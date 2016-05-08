@@ -1,0 +1,6 @@
+function splinter(a,b) {
+  var z = a * b;
+  var list = [a, b, z];
+  return list;
+}
+console.log(splinter(1,2));
